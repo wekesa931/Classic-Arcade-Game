@@ -70,3 +70,6 @@ This file provides the game loop functionalitie i.e the render and update entiti
 
 #### 3. resources.js
 This is simply an image loading utility. It eases the process of loading image files so that they can be used within the game. It also includes a simple "caching" layer so it will reuse cached images if you attempt to load the same image multiple times.
+
+## Hosting
+The project has been hosted in here: https://wekesa931.github.io/Classic-Arcade-Game/
